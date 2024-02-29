@@ -72,5 +72,3 @@ A equipe é formada por gestores, jornalistas, designers e pesquisadores de orig
 > O data_labe é uma associação sem fins de lucro. Isso quer dizer que todo recurso que entra na conta é investido diretamente na sustentabilidade da organização. Você pode colaborar de várias formas e investir em educação, pesquisa e jornalismo comprometidos com as favelas e seus moradores.
 
 [![datalabe](https://datalabe.org/cms/wp-content/uploads/2021/07/banner-apoie1.png)](https://datalabe.org/apoie/)
-
-![Snake animation](https://github.com/datalabe/datalabe/blob/output/github-contribution-grid-snake.svg)
