@@ -1,4 +1,4 @@
-[![datalabe](https://datalabe.org/cms/wp-content/uploads/2024/02/CAPA01.png)](https://datalabe.org/)
+[![datalabe]([https://datalabe.org/cms/wp-content/uploads/2024/02/CAPA01.png](https://datalabe.org/cms/wp-content/uploads/2024/05/Captura-de-tela-de-2024-05-13-15-28-44-e1715625084800.webp))](https://datalabe.org/)
 
 
 <div>
