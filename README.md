@@ -1,5 +1,4 @@
-[![datalabe]([https://datalabe.org/cms/wp-content/uploads/2024/05/Captura-de-tela-de-2024-05-13-15-28-44-e1715625084800.webp)](https://datalabe.org/)
-
+[![datalabe](https://datalabe.org/cms/wp-content/uploads/2024/05/Captura-de-tela-de-2024-05-13-15-28-44-e1715625084800.webp)](https://datalabe.org/)
 
 <div>
 <a href="https://instagram.com/data_labe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
