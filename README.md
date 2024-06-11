@@ -1,14 +1,6 @@
 [![datalabe](https://datalabe.org/cms/wp-content/uploads/2024/06/LinkedIn.webp)](https://datalabe.org/)
 
-<div>
-<a href="https://instagram.com/data_labe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/data_labe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/company/data-labe/mycompany/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://open.spotify.com/show/71TUJbQpSJ1rOrj9oD0dK6?si=c43fc0ef7a304d1f/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Spotify-%16D35D?style=for-the-badge&logo=Spotify&logoColor=white" target="_blank"></a>
-<a href="https://www.tiktok.com/@datalabe" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-tiktok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>  
-<a href="https://www.youtube.com/channel/UCVfWgyrjxgUtLENX06lI6Kg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-</div>
 
 ## O data_labe é um laboratório que promove a democratização do conhecimento por meio da geração, análise e divulgação de dados com foco em raça, gênero e território a partir do Complexo da Maré – RJ. Somos uma organização da sociedade civil sem fins lucrativos.
 
